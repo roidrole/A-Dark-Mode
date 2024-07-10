@@ -2,7 +2,6 @@
 Adds additional mod support to A Dark Mode (https://www.curseforge.com/minecraft/texture-packs/minecraft-dark-mode-mod-support)
 
 Supported mods (as of 1.0.0) : 
-  Applied Energistics
   ArchitectureCraft
   Inventory Bogo Sorter
   Botania
