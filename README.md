@@ -6,10 +6,11 @@ Supported mods (as of 1.0.0) :
 2. Inventory Bogo Sorter
 3. Botania
 4. Ex Nihilo Creatio
-5. Lazy AE2
-6. Gregtech (not fully tested)
-7. Tinker's Complement
-8. Techguns
-9. Tech Reborn
+5. FutureMC
+6. Lazy AE2
+7. Gregtech (not fully tested)
+8. Tinker's Complement
+9. Techguns
+10. Tech Reborn
 
 If you feel a mod is missing, check if A Dark Mode supports it. If not, I welcome PRs
