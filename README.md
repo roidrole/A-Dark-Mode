@@ -8,9 +8,10 @@ Supported mods (as of 1.1.0) :
 4. Ex Nihilo Creatio
 5. FutureMC
 6. Lazy AE2
-7. Gregtech (not fully tested)
-8. Tinker's Complement
-9. Techguns
-10. Tech Reborn
+7. Modular Machinery (and CE)
+8. Gregtech (not fully tested)
+9. Tinker's Complement
+10. Techguns
+11. Tech Reborn
 
 If you feel a mod is missing, check if A Dark Mode supports it. If not, I welcome PRs
