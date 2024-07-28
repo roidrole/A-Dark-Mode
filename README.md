@@ -1,7 +1,7 @@
 # A-Dark-Mode-Addon
 Adds additional mod support to A Dark Mode (https://www.curseforge.com/minecraft/texture-packs/minecraft-dark-mode-mod-support)
 
-Supported mods (as of 1.3.0) : 
+Supported mods (as of 1.3.x) : 
 1. ArchitectureCraft
 2. Baubles (bauble overlay fix)
 3. Botania
