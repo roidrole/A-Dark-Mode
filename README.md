@@ -1,7 +1,7 @@
 # A-Dark-Mode-Addon
 Adds additional mod support to A Dark Mode (https://www.curseforge.com/minecraft/texture-packs/minecraft-dark-mode-mod-support)
 
-Supported mods (as of 1.4.x) : 
+Supported mods (as of 1.5.x) : 
 1. Advanced Rocketry
 2. ArchitectureCraft
 3. Applied Energistics (JEI fixes)
