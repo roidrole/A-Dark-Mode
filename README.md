@@ -3,7 +3,7 @@ Adds additional mod support to A Dark Mode (https://www.curseforge.com/minecraf
 
 Releases can be found here : https://www.curseforge.com/minecraft/texture-packs/dark-mode-addon
 
-Supported mods (as of 1.5.x) : 
+Supported mods (as of 1.6.x) : 
 1. Advanced Rocketry
 2. ArchitectureCraft
 3. Applied Energistics (JEI fixes)
@@ -28,22 +28,23 @@ Supported mods (as of 1.5.x) :
 23. Just Enough Throwing in Fluids
 20. Lazy AE2
 24. Loot Bags
-25. Minecraft (armor overlay fix)
-26. Minor Integration and Additions
-27. Modular Machinery (and CE)
-28. Mystical Creations
-29. Nuclearcraft : Overhauled
-30. PackagedAuto
-31. Pollution of the Realms
-32. Psi
-33. QMD
-34. Rats : RotN edition
-35. Requious Frakto
-36. Single Spot Chest
-37. Thaumcraft
-38. Thaumic Additions
-39. Tinker's Complement
-40. Techguns
-41. Tech Reborn
+25. Metal Chests
+26. Minecraft (armor overlay fix)
+27. Minor Integration and Additions
+28. Modular Machinery (and CE)
+29. Mystical Creations
+30. Nuclearcraft : Overhauled
+31. PackagedAuto
+32. Pollution of the Realms
+33. Psi
+34. QMD
+35. Rats : RotN edition
+36. Requious Frakto
+37. Single Spot Chest
+38. Thaumcraft
+39. Thaumic Additions
+40. Tinker's Complement
+41. Techguns
+42. Tech Reborn
 
 If you feel a mod is missing, check if A Dark Mode supports it. If not, I welcome PRs
