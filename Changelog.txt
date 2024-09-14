@@ -61,3 +61,12 @@ Support for E2E:E, which means :
 - Improved FutureMC Support : 
 	- Fixed JEI background
 	- Improved Loom Texture
+
+1.6.0 : 
+- Added Metal Chests Support
+
+1.6.1 : 
+- Fixed Metal Chests Support
+
+1.6.2 : 
+- Fixed Simple Storage Network Support
