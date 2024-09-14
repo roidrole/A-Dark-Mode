@@ -40,11 +40,12 @@ Supported mods (as of 1.6.x) :
 34. QMD
 35. Rats : RotN edition
 36. Requious Frakto
-37. Single Spot Chest
-38. Thaumcraft
-39. Thaumic Additions
-40. Tinker's Complement
-41. Techguns
-42. Tech Reborn
+37. Simple Storage Networks
+38. Single Spot Chest
+39. Thaumcraft
+40. Thaumic Additions
+41. Tinker's Complement
+42. Techguns
+43. Tech Reborn
 
 If you feel a mod is missing, check if A Dark Mode supports it. If not, I welcome PRs
