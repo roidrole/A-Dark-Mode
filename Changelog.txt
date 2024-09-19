@@ -70,3 +70,6 @@ Support for E2E:E, which means :
 
 1.6.2 : 
 - Fixed Simple Storage Network Support
+
+1.7.0 : 
+- Added Traveler's Backpack Support
