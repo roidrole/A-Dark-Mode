@@ -3,7 +3,7 @@ Adds additional mod support to A Dark Mode (https://www.curseforge.com/minecraf
 
 Releases can be found here : https://www.curseforge.com/minecraft/texture-packs/dark-mode-addon
 
-Supported mods (as of 1.6.x) : 
+Supported mods (as of 1.7.x) : 
 1. Advanced Rocketry
 2. ArchitectureCraft
 3. Applied Energistics (JEI fixes)
@@ -47,5 +47,6 @@ Supported mods (as of 1.6.x) :
 41. Tinker's Complement
 42. Techguns
 43. Tech Reborn
+44. Traveler's Backpack
 
 If you feel a mod is missing, check if A Dark Mode supports it. If not, I welcome PRs
