@@ -84,7 +84,7 @@ Added support for :
 - IC2 (style change of the sun in solar panels)
 - Integrated Proxy
 - Integrated Terminals
-- Just Enough Calculations
+- Just Enough Calculation
 - LibVulpes (Fixes Advanced Rocketry)
 - Minecraft (fix creative scroll bar)
 - Tinkers' Complement (melter & heater)
