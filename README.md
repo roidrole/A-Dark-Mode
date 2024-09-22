@@ -30,7 +30,7 @@ Supported mods (as of 1.8.x) :
 24. Integrated Terminals
 25. Inventory Bogo Sorter
 26. InWorldCrafting
-27. Just Enouogh Calculations
+27. Just Enouogh Calculation
 28. Just Enough Magiculture
 29. Just Enough Pattern Banners
 30. Just Enough Throwing in Fluids
