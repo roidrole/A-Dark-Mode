@@ -73,3 +73,18 @@ Support for E2E:E, which means :
 
 1.7.0 : 
 - Added Traveler's Backpack Support
+
+1.8.0 : 
+Added support for : 
+- Advanced Rocketry (fixes)
+- Colossal Chests
+- Compact Solars
+- ComputerCraft
+- Gambling Style
+- IC2 (style change of the sun in solar panels)
+- Integrated Proxy
+- Integrated Terminals
+- Just Enough Calculations
+- LibVulpes (Fixes Advanced Rocketry)
+- Minecraft (fix creative scroll bar)
+- Tinkers' Complement (melter & heater)
