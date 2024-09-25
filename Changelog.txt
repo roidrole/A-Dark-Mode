@@ -88,3 +88,20 @@ Added support for :
 - LibVulpes (Fixes Advanced Rocketry)
 - Minecraft (fix creative scroll bar)
 - Tinkers' Complement (melter & heater)
+
+1.9.0 : 
+Added support for : 
+- AE2 Fluid Crafting Reworked
+- AE Additions
+- Bring Me The Rings!
+- Extended Crafting Ender Crafter
+- Fluid Interactions Tweaker
+- Mechanics - Crafting Ways
+- Roughly Enough Immersive Multiblocks
+Fixed : 
+- AE : UEL interfaces, more missing textures
+- Extended Crafting Guis (all of them)
+- Gendustry Transposer
+- Gendustry JEI Tabs
+- Integrated Terminals
+- Thermal Expansion Fluid Transposer
