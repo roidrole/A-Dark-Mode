@@ -105,3 +105,6 @@ Fixed :
 - Gendustry JEI Tabs
 - Integrated Terminals
 - Thermal Expansion Fluid Transposer
+
+1.9.1 : 
+- Fixed I&F Dragonforges
