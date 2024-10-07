@@ -123,6 +123,8 @@ Added support for :
 - Bewitchment
 - Baubley Heart Canisters
 - Blood Arsenal
+- Bubbles
+- Bundles Backport
 - Calculator
 - Demagnetize
 - Draconic Additions
@@ -130,6 +132,7 @@ Added support for :
 - Embers
 - Evilcraft
 - Extreme Sound Muffler
+- Freetrading
 - Galacticraft (core, planets)
 - IntegratedNBT
 - Just Enough Reactors
@@ -143,6 +146,7 @@ Added support for :
 - Packaged Thaumic
 - Planet Progression
 - PlusTic
+- Reliquary Reincarnations
 - Roots
 - Simply Jetpacks 2
 - Solar Flux Reborn
