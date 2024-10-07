@@ -3,7 +3,7 @@ Adds additional mod support to A Dark Mode (https://www.curseforge.com/minecraf
 
 Releases can be found here : https://www.curseforge.com/minecraft/texture-packs/dark-mode-addon
 
-Supported mods (as of 1.9.x) : 
+Supported mods (as of 1.10.x) : 
 1. AbyssalCraft
 2. Advanced Rocketry
 3. AE Additions
