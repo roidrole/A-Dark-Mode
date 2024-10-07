@@ -108,3 +108,50 @@ Fixed :
 
 1.9.1 : 
 - Fixed I&F Dragonforges
+
+1.10.0 : 
+Added support for : 
+- AbyssalCraft
+- Aether Legacy
+- Aetherworks
+- Agricraft
+- Alchemistry
+- Arcane Archives
+- Astral Sorcery
+- Atum2
+- Better P2P
+- Bewitchment
+- Baubley Heart Canisters
+- Blood Arsenal
+- Calculator
+- Demagnetize
+- Draconic Additions
+- Dynamistics
+- Embers
+- Evilcraft
+- Extreme Sound Muffler
+- Galacticraft (core, planets)
+- IntegratedNBT
+- Just Enough Reactors
+- LightningCraft
+- MoreTweaker
+- Multiblocked
+- Packaged Astral
+- Packaged Avaritia
+- Packaged Draconic
+- Packaged Ex Crafting
+- Packaged Thaumic
+- Planet Progression
+- PlusTic
+- Roots
+- Simply Jetpacks 2
+- Solar Flux Reborn
+- Soot
+- Thaumic Augmentation
+- Thaumic Energistics
+- Woot
+- Wireless Redstone CBE
+Fixed : 
+- AE2 : UEL CPU Selector
+- AE2 : UEL qbgui
+- Modular Machinery (non-CE) Blueprint
