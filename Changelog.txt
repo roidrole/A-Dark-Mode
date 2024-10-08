@@ -159,3 +159,15 @@ Fixed :
 - AE2 : UEL CPU Selector
 - AE2 : UEL qbgui
 - Modular Machinery (non-CE) Blueprint
+
+1.11.0 : 
+Added support for : 
+- Custom Main Menu
+- Embers : UEL (will break Embers Rekindled)
+- Neeve's Applied Energistics 2 Extended Life Additions
+- Nutrition
+Fixed : 
+- AbyssalCraft Engraver (& JEI)
+- Bewitchment Brew, Brazier, Cauldron, and Frostfire
+- ExtendedCrafting Compressor JEI & Ender Crafting Arrow (also recolored ritual texts)
+- Roots JEI Loot
