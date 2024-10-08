@@ -1,4 +1,4 @@
-# A-Dark-Mode-Addon
+# A Dark Mode
 
 Versions after 2.0.0 : Reskins minecraft and most mods' guis to a dark theme. Releases can be found [on Curseforge](https://www.curseforge.com/minecraft/texture-packs/minecraft-dark-mode-mod-support).
 
