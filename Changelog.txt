@@ -171,3 +171,29 @@ Fixed :
 - Bewitchment Brew, Brazier, Cauldron, and Frostfire
 - ExtendedCrafting Compressor JEI & Ender Crafting Arrow (also recolored ritual texts)
 - Roots JEI Loot
+
+2.0.0 : 
+Include A Dark Mode
+
+2.1.0 : 
+Added support for : 
+- Arcane World
+- Better Advancements
+- Equivalent Storage
+- Fossil and Archeology: Revival
+- Just Enough Recipe Integrations (1.1.2)
+- Logistics Bridge
+- Modular Routers
+- More Refined Storage
+- Not Enough Energistics
+- Pneumaticraft
+- Refined Avaritia
+- Refined Relocation
+- Refined Storage : Requestify
+- RSInfiniteWireless
+- Refined Storage Large Patterns
+- Simple Voice Chat
+- Trash Cans
+- Trash Slot
+- Tropicraft
+Fixed Cofh (Thermal Expansion) Coolant and Evergy meters
