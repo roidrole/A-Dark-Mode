@@ -5,7 +5,7 @@ Versions after 2.0.0 : Reskins minecraft and most mods' guis to a dark theme. Re
 Versions before 2.0.0 : Adds additional mod support to [A Dark Mode](https://www.curseforge.com/minecraft/texture-packs/minecraft-dark-mode-mod-support), by TheGoldenProof. Releases can be found [here](https://www.curseforge.com/minecraft/texture-packs/dark-mode-addon).
 
 
-Supported mods (as of 2.0.0) : 
+Supported mods (as of 2.1.0) : 
 1. AbyssalCraft
 2. Actually Additions
 3. Advanced Generators
