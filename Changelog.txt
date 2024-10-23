@@ -201,3 +201,6 @@ Fixed Cofh (Thermal Expansion) Coolant and Energy meters
 2.1.1 : 
 - Embers and embers UEL Alchemy table GUI are now supported
 - Techguns Chemical Laboratory and Charging Station GUIs are now fixed
+
+2.1.2 : 
+- Added Enigmatica's Replicator
