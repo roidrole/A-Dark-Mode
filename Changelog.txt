@@ -204,3 +204,4 @@ Fixed Cofh (Thermal Expansion) Coolant and Energy meters
 
 2.1.2 : 
 - Added Enigmatica's Replicator
+- Improved AE2 States
