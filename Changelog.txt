@@ -205,3 +205,32 @@ Fixed Cofh (Thermal Expansion) Coolant and Energy meters
 2.1.2 : 
 - Added Enigmatica's Replicator
 - Improved AE2 States
+
+2.2.0 : 
+Added support for : 
+- AE2 Crafting Tree - Legacy
+- Avaritia Addons
+- Backpacked
+- Better Tabs
+- Bigger Crafting Tables
+- Corpse
+- Crafting Slots
+- Defiled Lands
+- Divine RPG
+- Ender Utilities
+- Inspirations
+- Item Collectors
+- JEI Utilities
+- Mahou Tsukai
+- Modular Diversity
+- MrCrayfish's gun mod
+- Not Enough Items
+- No Tree Punching
+- Quantum Flux
+- Quantum Storage
+- Rechiseled
+- Security Craft
+- Simply Backpacks
+- Super Factory Manager
+- Teams Mod
+- Treasure 2
