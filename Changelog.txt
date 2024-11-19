@@ -234,3 +234,6 @@ Added support for :
 - Super Factory Manager
 - Teams Mod
 - Treasure 2
+
+2.2.1 : 
+Fixed Extened Crafting's JEI Compressor texture
