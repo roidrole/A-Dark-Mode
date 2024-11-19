@@ -236,4 +236,5 @@ Added support for :
 - Treasure 2
 
 2.2.1 : 
-Fixed Extened Crafting's JEI Compressor texture
+Fixed Extended Crafting's JEI Compressor texture
+Fixed Extended Crafting's Compressor GUI
