@@ -17,7 +17,7 @@ Supported mods (as of 2.2.0) :
 9. Applied Energistics 2
 10. Aetheworks
 11. ArchitectureCraft
-12. Applied Energistics (JEI fixes) (UEL support)
+12. Applied Energistics & Unofficial Extended Life
 13. Agricraft
 14. Alchemistry
 15. Arcane Archives
@@ -146,7 +146,7 @@ Supported mods (as of 2.2.0) :
 138. Minor Integration and Additions
 139. Mob Grinding Utils
 140. Modular Diversity
-141. Modular Machinery : Community Edition
+141. Modular Machinery & Community Edition
 142. Modular Routers
 143. More Refined Storage
 144. MoreTweaker
