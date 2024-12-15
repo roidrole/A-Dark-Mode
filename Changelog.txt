@@ -236,5 +236,9 @@ Added support for :
 - Treasure 2
 
 2.2.1 : 
-Fixed Extended Crafting's JEI Compressor texture
-Fixed Extended Crafting's Compressor GUI
+- Fixed Extended Crafting's JEI Compressor texture
+- Fixed Extended Crafting's Compressor GUI
+
+2.2.2 : 
+Fixed ModularMachinery support. Resource pack now doesn't support MM:CE versions prior to 2.1.4, but support the original Modular Machinery. 
+If pre-2.1.4 MM:CE support is needed, you can use the 2.2.1 release
