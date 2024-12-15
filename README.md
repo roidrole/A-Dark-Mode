@@ -146,7 +146,7 @@ Supported mods (as of 2.2.0) :
 138. Minor Integration and Additions
 139. Mob Grinding Utils
 140. Modular Diversity
-141. Modular Machinery & Community Edition
+141. Modular Machinery & Community Edition (2.1.4+)
 142. Modular Routers
 143. More Refined Storage
 144. MoreTweaker
