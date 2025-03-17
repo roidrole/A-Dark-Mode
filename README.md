@@ -19,7 +19,7 @@ Supported mods (as of 2.4.0) :
 1. ArchitectureCraft
 1. Applied Energistics & Unofficial Extended Life
 1. Agricraft
-1. Alchemistry (and Redox)
+1. Alchemistry & Redox
 1. Arcane Archives
 1. Arcane World
 1. Astral Sorcery
@@ -271,6 +271,7 @@ Supported mods (as of 2.4.0) :
 1. Wireless Crafting Terminal
 1. Woot
 1. Wireless Redstons CBE
+1. Witchery & Companion & Resurrected
 1. Xnet
 
 If you feel a mod is missing, PRs are *extremely* welcome (be sure to follow color palette). If not, you can make an issue

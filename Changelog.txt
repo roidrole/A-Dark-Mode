@@ -277,6 +277,7 @@ Added support for :
 - Oceanic Expanse
 - Retro Sophisticated Backpacks
 - Vampirism
+- Witchery (original, Companion, Resurrected)
 Fixed : 
 - AE2CTL
 - Botania's creative tab
