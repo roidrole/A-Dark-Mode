@@ -272,6 +272,6 @@ Supported mods (as of 2.4.0) :
 1. Woot
 1. Wireless Redstons CBE
 1. Witchery & Companion & Resurrected
-1. Xnet
-
+1. Xnet 
+ 
 If you feel a mod is missing, PRs are *extremely* welcome (be sure to follow color palette). If not, you can make an issue
