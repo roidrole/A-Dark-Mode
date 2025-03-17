@@ -270,6 +270,7 @@ Added support for :
 - Chargers
 - Doggy Talents
 - Exchangers
+- Factory Tech
 - Fluid Drawers
 - GT Classic
 - Harken Scythe - Resharpen

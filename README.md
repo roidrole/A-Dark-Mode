@@ -99,6 +99,7 @@ Supported mods (as of 2.4.0) :
 1. Extreme Reactors
 1. Extreme Sound Muffler
 1. Factory0-Resources (standardizes textures)
+1. Factory Tech
 1. Farming for Blockheads
 1. Flat Colored Blocks
 1. Fluid Drawers
