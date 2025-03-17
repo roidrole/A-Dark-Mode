@@ -34,6 +34,7 @@ Supported mods (as of 2.4.0) :
 1. Better P2P
 1. Better Questing
 1. Better Tabs
+1. BetterEndForge Backport
 1. Bewitchment
 1. Botania
 1. Bibliocraft
@@ -79,7 +80,7 @@ Supported mods (as of 2.4.0) :
 1. Draconic Evolution
 1. Dynamistics
 1. Electroblob's Wizardry
-1. Embers : UEL
+1. Embers & Unofficial Extended Life
 1. End:Reborn
 1. EnderCore
 1. EnderIO
@@ -151,7 +152,7 @@ Supported mods (as of 2.4.0) :
 1. Mantle
 1. Mechanics - Crafting Ways
 1. Metal Chests
-1. Mekanism (and CE, and CEu)
+1. Mekanism & Community Edition & Unofficial
 1. Minecraft
 1. Minor Integration and Additions
 1. Mob Grinding Utils

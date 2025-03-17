@@ -23,7 +23,6 @@
 - Added support for Pollution of the Realms
 - Added support for Advanced Rocketry
 
-
 1.4.1 : 
 - Fixed Expandable Inventory support
 
@@ -267,6 +266,7 @@ Fixed Bubbles support
 
 2.4.0 : 
 Added support for : 
+- BetterEndForge Backport
 - Chargers
 - Doggy Talents
 - Exchangers
