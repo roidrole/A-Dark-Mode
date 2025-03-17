@@ -5,261 +5,271 @@ Versions after 2.0.0 : Reskins minecraft and most mods' guis to a dark theme. Re
 Versions before 2.0.0 : Adds additional mod support to [A Dark Mode](https://www.curseforge.com/minecraft/texture-packs/minecraft-dark-mode-mod-support), by TheGoldenProof. Releases can be found [here](https://www.curseforge.com/minecraft/texture-packs/dark-mode-addon).
 
 
-Supported mods (as of 2.3.0) : 
+Supported mods (as of 2.4.0) : 
 1. AbyssalCraft
-2. Actually Additions
-3. Advanced Generators
-4. Advanced Rocketry
-5. AE Additions
-6. AE2 Craftin Tree - Legacy
-7. AE2 Fluid Crafting Reworked
-8. AE2 Stuff
-9. Applied Energistics 2
-10. Aetheworks
-11. ArchitectureCraft
-12. Applied Energistics & Unofficial Extended Life
-13. Agricraft
-14. Alchemistry
-15. Arcane Archives
-16. Arcane World
-17. Astral Sorcery
-18. Atum 2
-19. Auximlium Equivalence
-20. Avaritia
-21. Avaritia Addons
-22. Backpacked
-23. Baubles
-24. Baubley Heart Canisters
-25. Better Advancements
-26. Better P2P
-27. Better Questing
-28. Better Tabs
-29. Bewitchment
-30. Botania
-31. Bibliocraft
-32. Bigger Crafting Tables
-33. Blood Arsenal
-34. Blood Magic
-35. Brandon's Core
-36. Bring Me The Rings!
-37. Bubbles
-38. Builcraft
-39. Building Gadgets
-40. Bundles Backport
-41. Calculator
-42. CC:Tweaked
-43. Chicken Chunks
-44. Chickens
-45. Chisel
-46. Chisel and Bits
-47. Cofh
-48. Colossal Chests
-49. Compact Machines
-50. Compact Solars
-51. Compact Storage
-52. Construct's Armory
-53. Cooking for Blockheads
-54. Corpse
-55. Cosmetic Armor Reworked
-56. Crafting Slots
-57. Crafting Tweaks
-58. Cucumber
-59. Custom Main Menu
-60. Cyclic
-61. CyclopsCore
-62. Dark Utilities
-63. Dense Neutron Collectors
-64. Deep Mob Learning/Evolution
-65. Defiled Lands
-66. Demagnetize
-67. Divine RPG
-68. Draconic Additions
-69. Draconic Evolution
-70. Dynamistics
-71. Electroblob's Wizardry
-72. Embers : UEL
-73. End:Reborn
-74. EnderCore
-75. EnderIO
-76. Ender Utilities
-77. Equivalent Integrations
-78. Equivalent Storage
-79. EvilCraft
-80. Ex Compressum
-81. Ex Nihilo Creatio
-82. Expandable Inventory
-83. Extended Crafitng
-84. Extra Bees
-85. Extra Cells
-86. Extra Utilities
-87. Extreme Reactors
-88. Extreme Sound Muffler
-89. Factory0-Resources (standardizes textures)
-90. Farming for Blockheads
-91. Flat Colored Blocks
-92. Fluid Interaction Tweaker
-93. Flux Networks
-94. Forestry
-95. Fossil and Archeology: Revival
-96. Freetrading
-97. FTBQuests
-98. FutureMC
-99. Galacticraft Legacy
-100. Gambling Style
-101. Gendustry
-102. Gendustry JEI Addon
-103. Gregtech
-104. Hatchery
-105. Ice and fire
-106. Industrialcraft 2
-107. Industrial Foregoing
-108. Inspirations
-109. Integrated Dynamics
-110. Integrated NBT
-111. Integrated Proxy
-112. Integrated Terminals
-113. Integrated Tunnels
-114. Inventory Bogo Sorter
-115. InWorldCrafting
-116. Iron Backpacks
-117. Iron Chests
-118. Item Collectors
-119. JEI Bees
-120. JEI Utilities
-121. Just Enough Bees
-122. Just Enough Calculation
-123. Just Enough Items
-124. Just Enough Magiculture
-125. Just Enough Pattern Banners
-126. Just Enough Reactors
-127. Just Enough Recipe Integrations (1.1.2)
-128. Just Enough Resources
-129. Just Enough Throwing in Fluids
-130. Just Enough Villagers
-131. Lazy AE2
-132. LibVulpes
-133. LightningCraft
-134. Logistics Bridge
-135. Loot Bags
-136. Mahou Tsukai
-137. Mantle
-138. Mechanics - Crafting Ways
-139. Metal Chests
-140. Mekanism
-141. Minecraft
-142. Minor Integration and Additions
-143. Mob Grinding Utils
-144. Modular Diversity
-145. Modular Machinery & Community Edition (2.1.4+)
-146. Modular Magic
-147. Modular Routers
-148. More Refined Storage
-149. MoreTweaker
-150. Mowzie's mobs
-151. MrCrayfish's Gun Mod
-152. Multiblocked
-153. Mystical Agriculture
-154. Mystical Agradditions
-155. Mystical Creations
-156. Neeve's Applied Energistics 2 Extended Life Additions
-157. Not Enough Energistics
-158. Not Enough Items
-159. No Tree Punching
-160. Nuclearcraft : Overhauled
-161. Nutrition
-162. OpenBlocks
-163. OpenComputers
-164. OpenMods
-165. Overloaded
-166. PackagedAstral
-167. PackagedAuto
-168. PackagedAvaritia
-169. PackagedDraconic
-170. PackagedExCrafting
-171. PackagedThaumic
-172. Patchouli
-173. Planet Progression
-174. PlusTiC
-175. Pneumaticraft
-176. Pollution of the Realms
-177. Practical Logistics 2
-178. ProjectE
-179. ProjectEx
-180. ProjectRed
-181. Psi
-182. QMD
-183. Quantum Flux
-184. Quantum Storage
-185. Quark
-186. Railraft
-187. Random Things
-188. RandomTweaker
-189. Rats : RotN edition
-190. Reborn Storage
-191. Rechisiled
-192. Refined Avaritia
-193. Refined Relocation
-194. Refined Storage
-195. Refined Storage Large Patterns
-196. Refined Storage : Requestify
-197. RSInfiniteWireless
-198. Reliquary Reincarnations
-199. Renaissance Core
-200. Requious Frakto
-201. RFTools
-202. RFTools Control
-203. RFTools Dimensions
-204. Roost
-205. Roots
-206. Roughly Enough Immersive Multiblocks
-207. Rustic
-208. Scannable
-209. Scavenge
-210. Security Craft
-211. Simple Storage Network
-212. Simple Voice Chat
-213. Simply Backpacks
-214. Simply Jetpacks 2
-215. Single Spot Chest
-216. Solar Flux Reborn
-217. Soot
-218. Spell Bundle (Electroblob's Wizardry)
-219. Storage Drawers
-220. Storage Tech
-221. Super Factory Manager
-222. TARDIS
-223. Tesms Mod
-224. Tesla Core Lib
-225. Techguns
-226. Tech Reborn
-227. Thaumcraft
-228. Thaumcraft 6 aspects for JEI
-229. Thaumic Addition
-230. Thaumic Augmentation
-231. Thaumic Energistics
-232. Thaumic JEI
-233. Thaumic Terminal
-234. Thaumic Tinkerer
-235. Thermal Dynamics
-236. Thermal Expansion
-237. The Aether
-238. The Betweenlands
-239. Tinkers' Construct
-240. Tinker's Complement
-241. Tinker IO
-242. Tiny Mob Farm
-243. Tiny Progressions
-244. TorchMaster
-245. Trash Cans
-246. Trash Slot
-247. Traveler's Backpack
-248. Treasure 2
-249. Tropicraft
-250. Twilight Forest
-251. ValkyrieLib
-252. Wireless Crafting Terminal
-253. Woot
-254. Wireless Redstons CBE
-255. Xnet
+1. Actually Additions
+1. Advanced Generators
+1. Advanced Rocketry
+1. AE Additions
+1. AE2 Crafting Tree - Legacy
+1. AE2 Fluid Crafting Reworked
+1. AE2 Stuff
+1. Applied Energistics 2
+1. Aetheworks
+1. ArchitectureCraft
+1. Applied Energistics & Unofficial Extended Life
+1. Agricraft
+1. Alchemistry (and Redox)
+1. Arcane Archives
+1. Arcane World
+1. Astral Sorcery
+1. Atum 2
+1. Auximlium Equivalence
+1. Avaritia
+1. Avaritia Addons
+1. Backpacked
+1. Baubles
+1. Baubley Heart Canisters
+1. Better Advancements
+1. Better P2P
+1. Better Questing
+1. Better Tabs
+1. Bewitchment
+1. Botania
+1. Bibliocraft
+1. Bigger Crafting Tables
+1. Blood Arsenal
+1. Blood Magic
+1. Brandon's Core
+1. Bring Me The Rings!
+1. Bubbles
+1. Builcraft
+1. Building Gadgets
+1. Bundles Backport
+1. Calculator
+1. CC:Tweaked
+1. Chargers
+1. Chicken Chunks
+1. Chickens
+1. Chisel
+1. Chisel and Bits
+1. Cofh
+1. Colossal Chests
+1. Compact Machines
+1. Compact Solars
+1. Compact Storage
+1. Construct's Armory
+1. Cooking for Blockheads
+1. Corpse
+1. Cosmetic Armor Reworked
+1. Crafting Slots
+1. Crafting Tweaks
+1. Cucumber
+1. Custom Main Menu
+1. Cyclic
+1. CyclopsCore
+1. Dark Utilities
+1. Dense Neutron Collectors
+1. Deep Mob Learning/Evolution
+1. Defiled Lands
+1. Demagnetize
+1. Divine RPG
+1. Doggy Talents
+1. Draconic Additions
+1. Draconic Evolution
+1. Dynamistics
+1. Electroblob's Wizardry
+1. Embers : UEL
+1. End:Reborn
+1. EnderCore
+1. EnderIO
+1. Ender Utilities
+1. Equivalent Integrations
+1. Equivalent Storage
+1. EvilCraft
+1. Ex Compressum
+1. Ex Nihilo Creatio
+1. Exchangers
+1. Expandable Inventory
+1. Extended Crafitng
+1. Extra Bees
+1. Extra Cells
+1. Extra Utilities
+1. Extreme Reactors
+1. Extreme Sound Muffler
+1. Factory0-Resources (standardizes textures)
+1. Farming for Blockheads
+1. Flat Colored Blocks
+1. Fluid Drawers
+1. Fluid Interaction Tweaker
+1. Flux Networks
+1. Forestry
+1. Fossil and Archeology: Revival
+1. Freetrading
+1. FTBQuests
+1. FutureMC
+1. Galacticraft Legacy
+1. Gambling Style
+1. Gendustry
+1. Gendustry JEI Addon
+1. Gregtech
+1. GT Classic
+1. Harken Scythe: Resharpened
+1. Hatchery
+1. Ice and fire
+1. Industrialcraft 2
+1. Industrial Foregoing
+1. Inspirations
+1. Integrated Dynamics
+1. Integrated NBT
+1. Integrated Proxy
+1. Integrated Terminals
+1. Integrated Tunnels
+1. Inventory Bogo Sorter
+1. InWorldCrafting
+1. Iron Backpacks
+1. Iron Chests
+1. Item Collectors
+1. JEI Bees
+1. JEI Utilities
+1. Just Enough Bees
+1. Just Enough Calculation
+1. Just Enough Items
+1. Just Enough Magiculture
+1. Just Enough Pattern Banners
+1. Just Enough Reactors
+1. Just Enough Recipe Integrations (1.1.2)
+1. Just Enough Resources
+1. Just Enough Throwing in Fluids
+1. Just Enough Villagers
+1. Lazy AE2
+1. LibVulpes
+1. LightningCraft
+1. Logistics Bridge
+1. Loot Bags
+1. Mahou Tsukai
+1. Mantle
+1. Mechanics - Crafting Ways
+1. Metal Chests
+1. Mekanism (and CE, and CEu)
+1. Minecraft
+1. Minor Integration and Additions
+1. Mob Grinding Utils
+1. Modular Diversity
+1. Modular Machinery & Community Edition (2.1.4+)
+1. Modular Magic
+1. Modular Routers
+1. More Furnaces
+1. More Refined Storage
+1. MoreTweaker
+1. Mowzie's mobs
+1. MrCrayfish's Gun Mod
+1. Multiblocked
+1. Mystical Agriculture
+1. Mystical Agradditions
+1. Mystical Creations
+1. Neeve's Applied Energistics 2 Extended Life Additions
+1. Not Enough Energistics
+1. Not Enough Items
+1. No Tree Punching
+1. Nuclearcraft : Overhauled
+1. Nutrition
+1. Oceanic Expanse
+1. OpenBlocks
+1. OpenComputers
+1. OpenMods
+1. Overloaded
+1. PackagedAstral
+1. PackagedAuto
+1. PackagedAvaritia
+1. PackagedDraconic
+1. PackagedExCrafting
+1. PackagedThaumic
+1. Patchouli
+1. Planet Progression
+1. PlusTiC
+1. Pneumaticraft
+1. Pollution of the Realms
+1. Practical Logistics 2
+1. ProjectE
+1. ProjectEx
+1. ProjectRed
+1. Psi
+1. QMD
+1. Quantum Flux
+1. Quantum Storage
+1. Quark
+1. Railraft
+1. Random Things
+1. RandomTweaker
+1. Rats : RotN edition
+1. Reborn Storage
+1. Rechisiled
+1. Refined Avaritia
+1. Refined Relocation
+1. Refined Storage
+1. Refined Storage Large Patterns
+1. Refined Storage : Requestify
+1. RSInfiniteWireless
+1. Reliquary Reincarnations
+1. Renaissance Core
+1. Requious Frakto
+1. Retro Sophisticated Backpacks
+1. RFTools
+1. RFTools Control
+1. RFTools Dimensions
+1. Roost
+1. Roots
+1. Roughly Enough Immersive Multiblocks
+1. Rustic
+1. Scannable
+1. Scavenge
+1. Security Craft
+1. Simple Storage Network
+1. Simple Voice Chat
+1. Simply Backpacks
+1. Simply Jetpacks 2
+1. Single Spot Chest
+1. Solar Flux Reborn
+1. Soot
+1. Spell Bundle (Electroblob's Wizardry)
+1. Storage Drawers
+1. Storage Tech
+1. Super Factory Manager
+1. TARDIS
+1. Tesms Mod
+1. Tesla Core Lib
+1. Techguns
+1. Tech Reborn
+1. Thaumcraft
+1. Thaumcraft 6 aspects for JEI
+1. Thaumic Addition
+1. Thaumic Augmentation
+1. Thaumic Energistics
+1. Thaumic JEI
+1. Thaumic Terminal
+1. Thaumic Tinkerer
+1. Thermal Dynamics
+1. Thermal Expansion
+1. The Aether
+1. The Betweenlands
+1. Tinkers' Construct
+1. Tinker's Complement
+1. Tinker IO
+1. Tiny Mob Farm
+1. Tiny Progressions
+1. TorchMaster
+1. Trash Cans
+1. Trash Slot
+1. Traveler's Backpack
+1. Treasure 2
+1. Tropicraft
+1. Twilight Forest
+1. ValkyrieLib
+1. Vampirism
+1. Wireless Crafting Terminal
+1. Woot
+1. Wireless Redstons CBE
+1. Xnet
 
 If you feel a mod is missing, PRs are *extremely* welcome (be sure to follow color palette). If not, you can make an issue

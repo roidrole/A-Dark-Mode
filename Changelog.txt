@@ -264,3 +264,27 @@ Added Support for :
 
 2.3.1 : 
 Fixed Bubbles support
+
+2.4.0 : 
+Added support for : 
+- Chargers
+- Doggy Talents
+- Exchangers
+- Fluid Drawers
+- GT Classic
+- Harken Scythe - Resharpen
+- More Furnaces
+- Oceanic Expanse
+- Retro Sophisticated Backpacks
+- Vampirism
+Fixed : 
+- AE2CTL
+- Botania's creative tab
+- FutureMC's Smithing Table
+- MM:CE JEI arrow
+Update : 
+- Fluid Interactions Tweaker
+- Nuclearcraft
+- Mekanism -> Mek CEu
+- Alchemistry -> Redox
+- Packaged Auto
