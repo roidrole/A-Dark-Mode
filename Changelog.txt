@@ -290,3 +290,6 @@ Update :
 - Mekanism -> Mek CEu
 - Alchemistry -> Redox
 - Packaged Auto
+
+2.4.1 : 
+Fixed Botania's Creative tab
