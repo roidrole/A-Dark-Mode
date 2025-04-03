@@ -292,4 +292,6 @@ Update :
 - Packaged Auto
 
 2.4.1 : 
-Fixed Botania's Creative tab
+Fixed 
+- Botania's Creative tab
+- Thaumic Energistics' Knowledge Core
