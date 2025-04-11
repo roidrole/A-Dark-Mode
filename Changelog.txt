@@ -295,3 +295,6 @@ Update :
 Fixed 
 - Botania's Creative tab
 - Thaumic Energistics' Knowledge Core
+
+2.4.2 : 
+Update Alchemistry - Redox support
