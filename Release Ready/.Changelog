@@ -1,6 +1,9 @@
 Added support for : 
 - Advanced TFC Tech
+- AE2 Extended Tables
+- AE2 Wireless Universal Terminal
 - Banner Patterns Backport
+- Crazy AE
 - Deeper Depths
 - Ender's Modpack Tweaks
 - Magneticraft
@@ -18,3 +21,4 @@ Update:
 Fixed:
 - FutureMC loom
 - Techreborn generator.png
+- Avaritia new JEI textures
