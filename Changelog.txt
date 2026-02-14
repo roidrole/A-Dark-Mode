@@ -292,9 +292,9 @@ Update :
 - Packaged Auto
 
 2.4.1 : 
-Fixed 
+Fixed :
 - Botania's Creative tab
 - Thaumic Energistics' Knowledge Core
 
 2.4.2 : 
-Update Alchemistry - Redox support
+- Update Alchemistry - Redox support
