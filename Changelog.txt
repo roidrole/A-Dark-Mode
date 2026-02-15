@@ -325,3 +325,5 @@ Fixed :
 - FutureMC loom
 - Techreborn generator.png
 - Avaritia new JEI textures
+
+Losslessly compress all files with oxipng
