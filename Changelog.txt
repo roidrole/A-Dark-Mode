@@ -26,9 +26,10 @@ Update :
 - Tinker's JEI texture
 
 Fixed :
-- FutureMC loom
-- Techreborn generator.png
 - Avaritia new JEI textures
+- FutureMC loom
+- Pneumaticraft textures
+- Techreborn generator.png
 
 2.4.2 : 
 - Update Alchemistry - Redox support
