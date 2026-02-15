@@ -5,15 +5,18 @@ Versions after 2.0.0 : Reskins minecraft and most mods' guis to a dark theme. Re
 Versions before 2.0.0 : Adds additional mod support to [A Dark Mode](https://www.curseforge.com/minecraft/texture-packs/minecraft-dark-mode-mod-support), by TheGoldenProof. Releases can be found [here](https://www.curseforge.com/minecraft/texture-packs/dark-mode-addon).
 
 
-Supported mods (as of 2.4.0) : 
+Supported mods (as of 2.5.0) : 
 1. AbyssalCraft
 1. Actually Additions
 1. Advanced Generators
 1. Advanced Rocketry
+1. Advanced TFC Tech
 1. AE Additions
 1. AE2 Crafting Tree - Legacy
 1. AE2 Fluid Crafting Reworked
+1. AE2 Extended Tables
 1. AE2 Stuff
+1. AE2 Universal Wireless Terminal
 1. Applied Energistics 2
 1. Aetheworks
 1. ArchitectureCraft
@@ -28,6 +31,7 @@ Supported mods (as of 2.4.0) :
 1. Avaritia
 1. Avaritia Addons
 1. Backpacked
+1. Banner Patterns Backport
 1. Baubles
 1. Baubley Heart Canisters
 1. Better Advancements
@@ -65,6 +69,7 @@ Supported mods (as of 2.4.0) :
 1. Cosmetic Armor Reworked
 1. Crafting Slots
 1. Crafting Tweaks
+1. Crazy AE
 1. Cucumber
 1. Custom Main Menu
 1. Cyclic
@@ -72,6 +77,7 @@ Supported mods (as of 2.4.0) :
 1. Dark Utilities
 1. Dense Neutron Collectors
 1. Deep Mob Learning/Evolution
+1. Deeper Depths
 1. Defiled Lands
 1. Demagnetize
 1. Divine RPG
@@ -82,6 +88,7 @@ Supported mods (as of 2.4.0) :
 1. Electroblob's Wizardry
 1. Embers & Unofficial Extended Life
 1. End:Reborn
+1. Ender's Modpack Tweaks
 1. EnderCore
 1. EnderIO
 1. Ender Utilities
@@ -96,6 +103,7 @@ Supported mods (as of 2.4.0) :
 1. Extra Bees
 1. Extra Cells
 1. Extra Utilities
+1. Extra Planets
 1. Extreme Reactors
 1. Extreme Sound Muffler
 1. Factory0-Resources (standardizes textures)
@@ -149,10 +157,12 @@ Supported mods (as of 2.4.0) :
 1. LightningCraft
 1. Logistics Bridge
 1. Loot Bags
+1. Magneticraft
 1. Mahou Tsukai
 1. Mantle
 1. Mechanics - Crafting Ways
 1. Metal Chests
+1. Metallurgy 4: Reforged
 1. Mekanism & Community Edition & Unofficial
 1. Minecraft
 1. Minor Integration and Additions
@@ -165,6 +175,7 @@ Supported mods (as of 2.4.0) :
 1. More Refined Storage
 1. MoreTweaker
 1. Mowzie's mobs
+1. MPUtils (& Basic Tools)
 1. MrCrayfish's Gun Mod
 1. Multiblocked
 1. Mystical Agriculture
@@ -227,6 +238,7 @@ Supported mods (as of 2.4.0) :
 1. Scannable
 1. Scavenge
 1. Security Craft
+1. SelectionGUI Crafting - Continued
 1. Simple Storage Network
 1. Simple Voice Chat
 1. Simply Backpacks
@@ -243,6 +255,7 @@ Supported mods (as of 2.4.0) :
 1. Tesla Core Lib
 1. Techguns
 1. Tech Reborn
+1. TerraFirmaCraft
 1. Thaumcraft
 1. Thaumcraft 6 aspects for JEI
 1. Thaumic Addition
@@ -250,12 +263,13 @@ Supported mods (as of 2.4.0) :
 1. Thaumic Energistics
 1. Thaumic JEI
 1. Thaumic Terminal
+1. Thaumic Wonders Unofficial
 1. Thaumic Tinkerer
 1. Thermal Dynamics
 1. Thermal Expansion
 1. The Aether
 1. The Betweenlands
-1. Tinkers' Construct
+1. Tinkers' Construct (& Tinkers' Antique)
 1. Tinker's Complement
 1. Tinker IO
 1. Tiny Mob Farm
@@ -268,6 +282,7 @@ Supported mods (as of 2.4.0) :
 1. Tropicraft
 1. Twilight Forest
 1. ValkyrieLib
+1. Villager Market
 1. Vampirism
 1. Wireless Crafting Terminal
 1. Woot
