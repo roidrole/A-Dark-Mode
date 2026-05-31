@@ -1,3 +1,4 @@
 Fixed:
 - AE2UELWirelessUniversalTerminal button background
 - Update AE2
+- Update EnderIO
