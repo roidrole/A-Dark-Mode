@@ -21,6 +21,6 @@ cd ./"Resource Pack"
 zip -q -r "Dark Mode-$version.zip" assets pack.mcmeta pack.png
 mv -f ./"Dark Mode-$version.zip" ../"Releases"
 
-#Recreated the changelog file of the next release
+#Recreate the changelog file of the next release
 cd ../
 > ./"Release Ready"/Changelog.md
