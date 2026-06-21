@@ -1,5 +1,0 @@
-Fixed:
-- AE2UELWirelessUniversalTerminal button background
-- AE2 Crafting Tree - Legacy
-- Update AE2
-- Update EnderIO

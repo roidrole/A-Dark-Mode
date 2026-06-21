@@ -1,0 +1,348 @@
+2.5.1:
+Added Support for: 
+- AE2 ModID View Cell
+- AE2 PowerTools
+- C.E.L.L.S
+- Techguns CE (partially, see [TheSlize/Techguns2-Completion-Update#59](https://github.com/TheSlize/Techguns2-Completion-Update/issues/59))
+
+Fixed:
+- AE2UELWirelessUniversalTerminal button background
+- AE2 Crafting Tree - Legacy
+- Update AE2
+- Update EnderCode
+- Update EnderIO
+- Update QMD
+- Update Requious Frakto
+
+2.5.0 :
+Losslessly compress all files with oxipng
+
+Add support for the Tainted Forces Modpack
+
+Added support for : 
+- Advanced TFC Tech
+- AE2 Extended Tables
+- AE2 Wireless Universal Terminal
+- Banner Patterns Backport
+- Crazy AE
+- Deeper Depths
+- Ender's Modpack Tweaks
+- Extra Planets
+- Magneticraft
+- Metallurgy 4: Reforged
+- MPUtils (& Basic Tools)
+- SelectionGUI Crafting - Continued
+- TerraFirmaCraft
+- Thaumic Wonders Unofficial
+- Villager Market
+
+Update :
+- AE2 new version support
+- Tinker's JEI texture
+
+Fixed :
+- Avaritia new JEI textures
+- FutureMC loom
+- Pneumaticraft textures
+- Techreborn generator.png
+
+2.4.2 : 
+- Update Alchemistry - Redox support
+
+2.4.1 : 
+Fixed :
+- Botania's Creative tab
+- Thaumic Energistics' Knowledge Core
+
+2.4.0 : 
+Added support for : 
+- BetterEndForge Backport
+- Chargers
+- Doggy Talents
+- Exchangers
+- Factory Tech
+- Fluid Drawers
+- GT Classic
+- Harken Scythe - Resharpen
+- More Furnaces
+- Oceanic Expanse
+- Retro Sophisticated Backpacks
+- Vampirism
+- Witchery (original, Companion, Resurrected)
+Fixed : 
+- AE2CTL
+- Botania's creative tab
+- FutureMC's Smithing Table
+- MM:CE JEI arrow
+Update : 
+- Fluid Interactions Tweaker
+- Nuclearcraft
+- Mekanism -> Mek CEu
+- Alchemistry -> Redox
+- Packaged Auto
+
+2.3.1 : 
+Fixed Bubbles support
+
+2.3.0 : 
+Fixed NuclearCraft:Overhauled, added support for version 2o.8.3
+Added Support for : 
+- Chicken Chunks
+- Dynamistics
+- Electroblob's wizardry (spelling)
+- Extra Bees
+- JEI Bees
+- Modular Magic
+- Mowzie's Mobs
+- Random Tweaker
+- Renaissance Core
+- Roost
+- Scavenge
+- Spell Bundle
+- TARDIS Mod
+- The Betweenlands
+- Tiny Mob Farm
+
+2.2.2 : 
+Fixed ModularMachinery support. Resource pack now doesn't support MM:CE versions prior to 2.1.4, but support the original Modular Machinery. 
+If pre-2.1.4 MM:CE support is needed, you can use the 2.2.1 release
+
+2.2.1 : 
+- Fixed Extended Crafting's JEI Compressor texture
+- Fixed Extended Crafting's Compressor GUI
+
+2.2.0 : 
+Added support for : 
+- AE2 Crafting Tree - Legacy
+- Avaritia Addons
+- Backpacked
+- Better Tabs
+- Bigger Crafting Tables
+- Corpse
+- Crafting Slots
+- Defiled Lands
+- Divine RPG
+- Ender Utilities
+- Inspirations
+- Item Collectors
+- JEI Utilities
+- Mahou Tsukai
+- Modular Diversity
+- MrCrayfish's gun mod
+- Not Enough Items
+- No Tree Punching
+- Quantum Flux
+- Quantum Storage
+- Rechiseled
+- Security Craft
+- Simply Backpacks
+- Super Factory Manager
+- Teams Mod
+- Treasure 2
+
+2.1.2 : 
+- Added Enigmatica's Replicator
+- Improved AE2 States
+
+2.1.1 : 
+- Embers and embers UEL Alchemy table GUI are now supported
+- Techguns Chemical Laboratory and Charging Station GUIs are now fixed
+
+2.1.0 : 
+Added support for : 
+- Arcane World
+- Better Advancements
+- Equivalent Storage
+- Fossil and Archeology: Revival
+- Just Enough Recipe Integrations (1.1.2)
+- Logistics Bridge
+- Modular Routers
+- More Refined Storage
+- Not Enough Energistics
+- Pneumaticraft
+- Refined Avaritia
+- Refined Relocation
+- Refined Storage : Requestify
+- RSInfiniteWireless
+- Refined Storage Large Patterns
+- Simple Voice Chat
+- Trash Cans
+- Trash Slot
+- Tropicraft
+Fixed Cofh (Thermal Expansion) Coolant and Energy meters
+
+2.0.0 : 
+Include A Dark Mode
+
+1.11.0 : 
+Added support for : 
+- Custom Main Menu
+- Embers : UEL (will break Embers Rekindled)
+- Neeve's Applied Energistics 2 Extended Life Additions
+- Nutrition
+Fixed : 
+- AbyssalCraft Engraver (& JEI)
+- Bewitchment Brew, Brazier, Cauldron, and Frostfire
+- ExtendedCrafting Compressor JEI & Ender Crafting Arrow (also recolored ritual texts)
+- Roots JEI Loot
+
+1.10.0 : 
+Added support for : 
+- AbyssalCraft
+- Aether Legacy
+- Aetherworks
+- Agricraft
+- Alchemistry
+- Arcane Archives
+- Astral Sorcery
+- Atum2
+- Better P2P
+- Bewitchment
+- Baubley Heart Canisters
+- Blood Arsenal
+- Bubbles
+- Bundles Backport
+- Calculator
+- Demagnetize
+- Draconic Additions
+- Dynamistics
+- Embers
+- Evilcraft
+- Extreme Sound Muffler
+- Freetrading
+- Galacticraft (core, planets)
+- IntegratedNBT
+- Just Enough Reactors
+- LightningCraft
+- MoreTweaker
+- Multiblocked
+- Packaged Astral
+- Packaged Avaritia
+- Packaged Draconic
+- Packaged Ex Crafting
+- Packaged Thaumic
+- Planet Progression
+- PlusTic
+- Reliquary Reincarnations
+- Roots
+- Simply Jetpacks 2
+- Solar Flux Reborn
+- Soot
+- Thaumic Augmentation
+- Thaumic Energistics
+- Woot
+- Wireless Redstone CBE
+Fixed : 
+- AE2 : UEL CPU Selector
+- AE2 : UEL qbgui
+- Modular Machinery (non-CE) Blueprint
+
+1.9.1 : 
+- Fixed I&F Dragonforges
+
+1.9.0 : 
+Added support for : 
+- AE2 Fluid Crafting Reworked
+- AE Additions
+- Bring Me The Rings!
+- Extended Crafting Ender Crafter
+- Fluid Interactions Tweaker
+- Mechanics - Crafting Ways
+- Roughly Enough Immersive Multiblocks
+Fixed : 
+- AE : UEL interfaces, more missing textures
+- Extended Crafting Guis (all of them)
+- Gendustry Transposer
+- Gendustry JEI Tabs
+- Integrated Terminals
+- Thermal Expansion Fluid Transposer
+
+1.8.0 : 
+Added support for : 
+- Advanced Rocketry (fixes)
+- Colossal Chests
+- Compact Solars
+- ComputerCraft
+- Gambling Style
+- IC2 (style change of the sun in solar panels)
+- Integrated Proxy
+- Integrated Terminals
+- Just Enough Calculation
+- LibVulpes (Fixes Advanced Rocketry)
+- Minecraft (fix creative scroll bar)
+- Tinkers' Complement (melter & heater)
+
+1.7.0 : 
+- Added Traveler's Backpack Support
+
+1.6.2 : 
+- Fixed Simple Storage Network Support
+
+1.6.1 : 
+- Fixed Metal Chests Support
+
+1.6.0 : 
+- Added Metal Chests Support
+
+1.5.1 : 
+- Improved FutureMC Support : 
+	- Fixed JEI background
+	- Improved Loom Texture
+
+1.5.0b : 
+- Fixed CF release
+
+1.5.0 : 
+Support for E2E:E, which means : 
+- QMD (Quantum Minecraft Dynamics) 
+- Mystical Creations 
+- AE Matter Consenser slot 
+- Psi 
+- InWorldCrafting (slot textures) 
+- Flux Networks 
+- DeepMobEvolution 
+- Thaumcraft (at least loot bags) 
+- Just Enough Magiculture 
+- FTBQuest (JEI) 
+- Rats : RotN 
+- Minor Integrations and Additions 
+- Gendustry 
+- Ice and Fire (fix JEI both dragon forge fire slots) 
+- End : Reborn 
+- Requious Frakto 
+- Just Enough Pattern Banners 
+- Fix Advanced Rocketry 
+- Thaumic Additions 
+- PackagedAuto 
+- JETiF 
+- Ex Compressum 
+- Lazy AE2 JEI 
+- NuclearCraft 
+
+1.4.1 : 
+- Fixed Expandable Inventory support
+
+1.4.0 : 
+- Added support for Pollution of the Realms
+- Added support for Advanced Rocketry
+
+1.3.1 : 
+- Standardized Techguns slot overlays
+
+1.3.0 : 
+- Added Single Spot Chest support
+- AddedLootbags support, 
+- Added Expendable Inventory support
+- Standardized F0-resources textures
+
+1.2.0 : 
+- Added Modular Machinery (and CE) support
+- Added Simple Storage Networks support
+- Fixed hard to see armor overlay in the inventory
+- Fixed hard to see baubles
+
+1.1.0 : 
+- Added FutureMC support
+
+1.0.0 : 
+- Inital release
