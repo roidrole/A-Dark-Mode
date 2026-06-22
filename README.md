@@ -74,6 +74,7 @@ Supported mods (as of 2.5.0) :
 1. Crazy AE
 1. Cucumber
 1. Custom Main Menu
+1. Custom NPCs
 1. Cyclic
 1. CyclopsCore
 1. Dark Utilities

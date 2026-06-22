@@ -3,6 +3,7 @@ Added Support for:
 - AE2 ModID View Cell
 - AE2 PowerTools
 - C.E.L.L.S
+- Custom NPCs
 - Techguns CE (partially, see [TheSlize/Techguns2-Completion-Update#59](https://github.com/TheSlize/Techguns2-Completion-Update/issues/59))
 
 Fixed:
