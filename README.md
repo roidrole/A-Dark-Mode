@@ -13,18 +13,19 @@ Supported mods (as of 2.5.0) :
 1. Advanced TFC Tech
 1. AE Additions
 1. AE2 Crafting Tree - Legacy
-1. AE2 Fluid Crafting Reworked
 1. AE2 Extended Tables
+1. AE2 Fluid Crafting Reworked
+1. AE2 ModID View Cell
+1. AE2 PowerTools
 1. AE2 Stuff
 1. AE2 Universal Wireless Terminal
-1. Applied Energistics 2
 1. Aetheworks
-1. ArchitectureCraft
-1. Applied Energistics & Unofficial Extended Life
 1. Agricraft
 1. Alchemistry & Redox
+1. Applied Energistics & Unofficial Extended Life
 1. Arcane Archives
 1. Arcane World
+1. ArchitectureCraft
 1. Astral Sorcery
 1. Atum 2
 1. Auximlium Equivalence
@@ -40,17 +41,18 @@ Supported mods (as of 2.5.0) :
 1. Better Tabs
 1. BetterEndForge Backport
 1. Bewitchment
-1. Botania
 1. Bibliocraft
 1. Bigger Crafting Tables
 1. Blood Arsenal
 1. Blood Magic
+1. Botania
 1. Brandon's Core
 1. Bring Me The Rings!
 1. Bubbles
 1. Builcraft
 1. Building Gadgets
 1. Bundles Backport
+1. C.E.L.L.S
 1. Calculator
 1. CC:Tweaked
 1. Chargers
@@ -75,11 +77,11 @@ Supported mods (as of 2.5.0) :
 1. Cyclic
 1. CyclopsCore
 1. Dark Utilities
-1. Dense Neutron Collectors
 1. Deep Mob Learning/Evolution
 1. Deeper Depths
 1. Defiled Lands
 1. Demagnetize
+1. Dense Neutron Collectors
 1. Divine RPG
 1. Doggy Talents
 1. Draconic Additions
@@ -88,10 +90,10 @@ Supported mods (as of 2.5.0) :
 1. Electroblob's Wizardry
 1. Embers & Unofficial Extended Life
 1. End:Reborn
-1. Ender's Modpack Tweaks
-1. EnderCore
-1. EnderIO
 1. Ender Utilities
+1. Ender's Modpack Tweaks
+1. EnderCore (and Ceu)
+1. EnderIO (and Ceu)
 1. Equivalent Integrations
 1. Equivalent Storage
 1. EvilCraft
@@ -102,12 +104,12 @@ Supported mods (as of 2.5.0) :
 1. Extended Crafitng
 1. Extra Bees
 1. Extra Cells
-1. Extra Utilities
 1. Extra Planets
+1. Extra Utilities
 1. Extreme Reactors
 1. Extreme Sound Muffler
-1. Factory0-Resources (standardizes textures)
 1. Factory Tech
+1. Factory0-Resources (standardizes textures)
 1. Farming for Blockheads
 1. Flat Colored Blocks
 1. Fluid Drawers
@@ -127,8 +129,8 @@ Supported mods (as of 2.5.0) :
 1. Harken Scythe: Resharpened
 1. Hatchery
 1. Ice and fire
-1. Industrialcraft 2
 1. Industrial Foregoing
+1. Industrialcraft 2
 1. Inspirations
 1. Integrated Dynamics
 1. Integrated NBT
@@ -161,9 +163,9 @@ Supported mods (as of 2.5.0) :
 1. Mahou Tsukai
 1. Mantle
 1. Mechanics - Crafting Ways
+1. Mekanism & Community Edition & Unofficial
 1. Metal Chests
 1. Metallurgy 4: Reforged
-1. Mekanism & Community Edition & Unofficial
 1. Minecraft
 1. Minor Integration and Additions
 1. Mob Grinding Utils
@@ -178,13 +180,13 @@ Supported mods (as of 2.5.0) :
 1. MPUtils (& Basic Tools)
 1. MrCrayfish's Gun Mod
 1. Multiblocked
-1. Mystical Agriculture
 1. Mystical Agradditions
+1. Mystical Agriculture
 1. Mystical Creations
 1. Neeve's Applied Energistics 2 Extended Life Additions
+1. No Tree Punching
 1. Not Enough Energistics
 1. Not Enough Items
-1. No Tree Punching
 1. Nuclearcraft : Overhauled
 1. Nutrition
 1. Oceanic Expanse
@@ -221,9 +223,8 @@ Supported mods (as of 2.5.0) :
 1. Refined Avaritia
 1. Refined Relocation
 1. Refined Storage
-1. Refined Storage Large Patterns
 1. Refined Storage : Requestify
-1. RSInfiniteWireless
+1. Refined Storage Large Patterns
 1. Reliquary Reincarnations
 1. Renaissance Core
 1. Requious Frakto
@@ -234,6 +235,7 @@ Supported mods (as of 2.5.0) :
 1. Roost
 1. Roots
 1. Roughly Enough Immersive Multiblocks
+1. RSInfiniteWireless
 1. Rustic
 1. Scannable
 1. Scavenge
@@ -251,11 +253,11 @@ Supported mods (as of 2.5.0) :
 1. Storage Tech
 1. Super Factory Manager
 1. TARDIS
-1. Tesms Mod
-1. Tesla Core Lib
-1. Techguns
 1. Tech Reborn
+1. Techguns (and CE, [partially](https://github.com/TheSlize/Techguns2-Completion-Update/issues/59))
 1. TerraFirmaCraft
+1. Tesla Core Lib
+1. Tesms Mod
 1. Thaumcraft
 1. Thaumcraft 6 aspects for JEI
 1. Thaumic Addition
@@ -263,15 +265,15 @@ Supported mods (as of 2.5.0) :
 1. Thaumic Energistics
 1. Thaumic JEI
 1. Thaumic Terminal
-1. Thaumic Wonders Unofficial
 1. Thaumic Tinkerer
-1. Thermal Dynamics
-1. Thermal Expansion
+1. Thaumic Wonders Unofficial
 1. The Aether
 1. The Betweenlands
-1. Tinkers' Construct (& Tinkers' Antique)
-1. Tinker's Complement
+1. Thermal Dynamics
+1. Thermal Expansion
 1. Tinker IO
+1. Tinker's Complement
+1. Tinkers' Construct (& Tinkers' Antique)
 1. Tiny Mob Farm
 1. Tiny Progressions
 1. TorchMaster
@@ -282,12 +284,12 @@ Supported mods (as of 2.5.0) :
 1. Tropicraft
 1. Twilight Forest
 1. ValkyrieLib
-1. Villager Market
 1. Vampirism
+1. Villager Market
 1. Wireless Crafting Terminal
-1. Woot
 1. Wireless Redstons CBE
 1. Witchery & Companion & Resurrected
+1. Woot
 1. Xnet 
  
 If you feel a mod is missing, PRs are *extremely* welcome (be sure to follow color palette). If not, you can make an issue
